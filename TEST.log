@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.8)  21 JUN 2024 12:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.8)  18 AUG 2024 13:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1517,28 +1517,38 @@ ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into
 your preamble.
  on input line 135.
 
-(./data/G12-BT1+2.tex
-Output from handle ans going to ans/G12BT1+2TN.tex
-\ans@file=\write7
-\openout7 = `ans/G12BT1+2TN.tex'.
-
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 12
-.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 14
+1.
 (c:/texlive/2022/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 12.
-
+LaTeX Font Info:    Trying to load font information for U+msa on input line 141
+.
 
 (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 12.
-
+LaTeX Font Info:    Trying to load font information for U+msb on input line 141
+.
 
 (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
+) (./data/G12-C1-DA.tex
+Overfull \hbox (5.61884pt too wide) in paragraph at lines 141--2
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--2
+
+ []
+
+LaTeX Font Info:    Trying to load font information for T5+qcs on input line 6.
+
+(c:/texlive/2022/texmf-dist/tex/latex/tex-gyre/t5qcs.fd
+File: t5qcs.fd 2009/09/25 v1.2 font definition file for T5/qcs
+) (./ans/G12C1TN.tex)
+(./ans/G12C1TF.tex) (./ans/G12C1TL.tex))
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 15.12502pt, for example:
@@ -1548,84 +1558,59 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-3.12502pt}.
 
 LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inp
-ut line 97.
+ut line 153.
 (c:/texlive/2022/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 ) [1{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
-]
+] (./data/G12-C1.tex
+Output from handle ans going to ans/G12C1TN.tex
+\ans@file=\write7
+\openout7 = `ans/G12C1TN.tex'.
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.12502pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.12502pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-3.12502pt}.
+Overfull \hbox (1.90292pt too wide) in paragraph at lines 13--13
+[][] 
+ []
 
-[2]
-Output from handle ans going to ans/G12B1+2TF.tex
-\openout7 = `ans/G12B1+2TF.tex'.
+<figs/G12-C1-4.jpg, id=16, 284.262pt x 88.53075pt>
+File: figs/G12-C1-4.jpg Graphic file (type jpg)
+<use figs/G12-C1-4.jpg>
+Package pdftex.def Info: figs/G12-C1-4.jpg  used on input line 23.
+(pdftex.def)             Requested size: 198.98203pt x 61.97107pt.
+File: figs/G12-C1-4.jpg Graphic file (type jpg)
+<use figs/G12-C1-4.jpg>
+Package pdftex.def Info: figs/G12-C1-4.jpg  used on input line 23.
+(pdftex.def)             Requested size: 198.98203pt x 61.97107pt.
 
-<figs/G12-BT1+2-1.jpg, id=21, 400.8576pt x 296.7888pt>
-File: figs/G12-BT1+2-1.jpg Graphic file (type jpg)
-<use figs/G12-BT1+2-1.jpg>
-Package pdftex.def Info: figs/G12-BT1+2-1.jpg  used on input line 233.
-(pdftex.def)             Requested size: 307.29288pt x 227.51819pt.
-File: figs/G12-BT1+2-1.jpg Graphic file (type jpg)
-<use figs/G12-BT1+2-1.jpg>
-Package pdftex.def Info: figs/G12-BT1+2-1.jpg  used on input line 233.
-(pdftex.def)             Requested size: 188.75655pt x 139.7534pt.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.12502pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.12502pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-3.12502pt}.
-
-[3 <./figs/G12-BT1+2-1.jpg>]
-<figs/G12-BT1+2-2.png, id=25, 427.5975pt x 285.31593pt>
-File: figs/G12-BT1+2-2.png Graphic file (type png)
-<use figs/G12-BT1+2-2.png>
-Package pdftex.def Info: figs/G12-BT1+2-2.png  used on input line 257.
-(pdftex.def)             Requested size: 358.50314pt x 239.21097pt.
-
-Underfull \hbox (badness 1762) in paragraph at lines 257--257
-[]\T5/cmr/m/n/10.95 ^^^º t¤o ra c¡c lo¤i r÷ñu
+Overfull \hbox (1.34036pt too wide) in paragraph at lines 28--28
+[][] 
  []
 
 
-Underfull \hbox (badness 1694) in paragraph at lines 257--257
-\T5/cmr/m/n/10.95 r÷ñu ^^_¢ thüc hi»n nhi·u
+Overfull \hbox (1.4772pt too wide) in paragraph at lines 38--38
+[][] 
  []
 
-File: figs/G12-BT1+2-2.png Graphic file (type png)
-<use figs/G12-BT1+2-2.png>
-Package pdftex.def Info: figs/G12-BT1+2-2.png  used on input line 257.
-(pdftex.def)             Requested size: 256.05981pt x 170.85565pt.
-<figs/G12-BT1+2-3.jpg, id=27, 563.10374pt x 438.63875pt>
-File: figs/G12-BT1+2-3.jpg Graphic file (type jpg)
-<use figs/G12-BT1+2-3.jpg>
-Package pdftex.def Info: figs/G12-BT1+2-3.jpg  used on input line 272.
-(pdftex.def)             Requested size: 332.8941pt x 259.31667pt.
-File: figs/G12-BT1+2-3.jpg Graphic file (type jpg)
-<use figs/G12-BT1+2-3.jpg>
-Package pdftex.def Info: figs/G12-BT1+2-3.jpg  used on input line 272.
-(pdftex.def)             Requested size: 221.12291pt x 172.2464pt.
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.12502pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.12502pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
+Overfull \hbox (1.4772pt too wide) in paragraph at lines 48--48
+[][] 
+ []
 
-(fancyhdr)                \addtolength{\topmargin}{-3.12502pt}.
 
-[4 <./figs/G12-BT1+2-2.png> <./figs/G12-BT1+2-3.jpg>]
-<figs/G12-BT1+2-4.jpg, id=32, 1273.75874pt x 1244.39906pt>
-File: figs/G12-BT1+2-4.jpg Graphic file (type jpg)
-<use figs/G12-BT1+2-4.jpg>
-Package pdftex.def Info: figs/G12-BT1+2-4.jpg  used on input line 284.
-(pdftex.def)             Requested size: 153.64644pt x 150.09995pt.
+Overfull \hbox (1.4772pt too wide) in paragraph at lines 60--60
+[][] 
+ []
+
+
+Overfull \hbox (1.90292pt too wide) in paragraph at lines 71--71
+[][] 
+ []
+
+
+Overfull \hbox (1.34036pt too wide) in paragraph at lines 81--81
+[][] 
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1635,7 +1620,35 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-3.12502pt}.
 
-[5 <./figs/G12-BT1+2-4.jpg>]
+[2 <./figs/G12-C1-4.jpg>]
+Overfull \hbox (1.4772pt too wide) in paragraph at lines 91--91
+[][] 
+ []
+
+
+Overfull \hbox (1.4772pt too wide) in paragraph at lines 102--102
+[][] 
+ []
+
+<figs/G12-C1-1.jpg, id=22, 205.9695pt x 149.358pt>
+File: figs/G12-C1-1.jpg Graphic file (type jpg)
+<use figs/G12-C1-1.jpg>
+Package pdftex.def Info: figs/G12-C1-1.jpg  used on input line 114.
+(pdftex.def)             Requested size: 123.58264pt x 89.61548pt.
+
+Overfull \hbox (1.90292pt too wide) in paragraph at lines 114--114
+[][] 
+ []
+
+File: figs/G12-C1-1.jpg Graphic file (type jpg)
+<use figs/G12-C1-1.jpg>
+Package pdftex.def Info: figs/G12-C1-1.jpg  used on input line 114.
+(pdftex.def)             Requested size: 123.58264pt x 89.61548pt.
+
+Overfull \hbox (2.03976pt too wide) in paragraph at lines 130--130
+[][] 
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 15.12502pt, for example:
@@ -1644,7 +1657,114 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-3.12502pt}.
 
-[6])
+[3 <./figs/G12-C1-1.jpg>]
+Overfull \hbox (2.03976pt too wide) in paragraph at lines 140--140
+[][] 
+ []
+
+
+Overfull \hbox (2.03976pt too wide) in paragraph at lines 151--151
+[][] 
+ []
+
+
+Overfull \hbox (1.34036pt too wide) in paragraph at lines 163--163
+[][] 
+ []
+
+
+Overfull \hbox (1.90292pt too wide) in paragraph at lines 173--173
+[][] 
+ []
+
+
+Overfull \hbox (1.90292pt too wide) in paragraph at lines 185--185
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.12502pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.12502pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.12502pt}.
+
+[4]
+<figs/G12-C1-2.jpg, id=36, 97.5645pt x 114.4275pt>
+File: figs/G12-C1-2.jpg Graphic file (type jpg)
+<use figs/G12-C1-2.jpg>
+Package pdftex.def Info: figs/G12-C1-2.jpg  used on input line 200.
+(pdftex.def)             Requested size: 78.05168pt x 91.54211pt.
+
+Overfull \hbox (1.34036pt too wide) in paragraph at lines 200--200
+[][] 
+ []
+
+File: figs/G12-C1-2.jpg Graphic file (type jpg)
+<use figs/G12-C1-2.jpg>
+Package pdftex.def Info: figs/G12-C1-2.jpg  used on input line 200.
+(pdftex.def)             Requested size: 78.05168pt x 91.54211pt.
+
+Overfull \hbox (1.34036pt too wide) in paragraph at lines 211--211
+[][] 
+ []
+
+Output from handle ans going to ans/G12C1TF.tex
+\openout7 = `ans/G12C1TF.tex'.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.12502pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.12502pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.12502pt}.
+
+[5 <./figs/G12-C1-2.jpg>]
+<figs/G12-C1-3.jpg, id=41, 333.04425pt x 259.56975pt>
+File: figs/G12-C1-3.jpg Graphic file (type jpg)
+<use figs/G12-C1-3.jpg>
+Package pdftex.def Info: figs/G12-C1-3.jpg  used on input line 255.
+(pdftex.def)             Requested size: 199.82808pt x 155.74304pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.12502pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.12502pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.12502pt}.
+
+[6 <./figs/G12-C1-3.jpg>]
+LaTeX Font Info:    Font shape `U/BOONDOX-cal/m/n' will be
+(Font)              scaled to size 11.49753pt on input line 300.
+LaTeX Font Info:    Font shape `U/BOONDOX-cal/m/n' will be
+(Font)              scaled to size 8.40002pt on input line 300.
+LaTeX Font Info:    Font shape `U/BOONDOX-cal/m/n' will be
+(Font)              scaled to size 6.30002pt on input line 300.
+
+Output from handle ans going to ans/G12C1TL.tex
+\openout7 = `ans/G12C1TL.tex'.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.12502pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.12502pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.12502pt}.
+
+[7]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.12502pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.12502pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.12502pt}.
+
+[8])
 \tf@thm=\write8
 \openout8 = `TEST.thm'.
 
@@ -1657,30 +1777,38 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-3.12502pt}.
 
-[7] (./TEST.aux) ) 
+[9] (./TEST.aux) ) 
 Here is how much of TeX's memory you used:
- 41949 strings out of 476064
- 1041159 string characters out of 5794900
- 1884340 words of memory out of 5000000
- 61687 multiletter control sequences out of 15000+600000
- 524428 words of font info for 61 fonts, out of 8000000 for 9000
+ 41737 strings out of 476064
+ 1033118 string characters out of 5794900
+ 1887340 words of memory out of 5000000
+ 61451 multiletter control sequences out of 15000+600000
+ 532240 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,17n,118p,736b,2368s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{c:/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome/fonta
-wesometwo.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/fontawesome/FontAw
-esome.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
-><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texli
-ve/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/vntex/vnr
-/vnbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/vntex/vnr/vnbxti10.pfb><c:/
-texlive/2022/texmf-dist/fonts/type1/vntex/vnr/vnr10.pfb><c:/texlive/2022/texmf-
-dist/fonts/type1/vntex/vnr/vnr8.pfb>
-Output written on TEST.pdf (7 pages, 426557 bytes).
+ 117i,17n,118p,760b,1204s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super
+-ts1.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo
+.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/tex-gyre/q-t5.enc}<c:/texlive/
+2022/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/texlive/2022
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2022/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2022/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10
+.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/t
+exlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texli
+ve/2022/texmf-dist/fonts/type1/public/tex-gyre/qcsr.pfb><c:/texlive/2022/texmf-
+dist/fonts/type1/public/cm-super/sfrm1095.pfb><c:/texlive/2022/texmf-dist/fonts
+/type1/vntex/vnr/vnbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/vntex/vnr/v
+nbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/vntex/vnr/vnbxti10.pfb><c:/te
+xlive/2022/texmf-dist/fonts/type1/vntex/vnr/vnr10.pfb><c:/texlive/2022/texmf-di
+st/fonts/type1/vntex/vnr/vnr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/vntex
+/vnr/vnti10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/boondox/zxxrw8a.
+pfb>
+Output written on TEST.pdf (9 pages, 364462 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
- 56 compressed objects within 1 object stream
+ 134 PDF objects out of 1000 (max. 8388607)
+ 82 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  33 words of extra memory for PDF output out of 10000 (max. 10000000)
 

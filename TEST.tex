@@ -1,8 +1,8 @@
 \documentclass[twoside,11pt]{report}
 % ============================================================ EX-TEST
 \usepackage[utf8]{vietnam}
-\usepackage{ex_test}
-%\usepackage[solcolor]{ex_test} % dethi, color, loigiai, solcolor, book
+%\usepackage{ex_test}
+ \usepackage[solcolor]{ex_test} % dethi, color, loigiai, solcolor, book
 \renewtheorem{ex}{\color{blue!90!black} Câu}
 \usepackage{amsmath,amssymb,tikz,mathrsfs,tkz-tab}
 \usepackage{fontawesome}
@@ -138,22 +138,22 @@
 	{\normalfont\bfseries}{PHẦN~\thesection.}{0.4em}{}
 	\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
 	\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
-%	\begin{tabular}{C{6cm}C{11cm}}
-%		\textbf{TRUNG TÂM MANABIE}& \textbf{ĐỀ KIỂM TRA ĐẦU CHƯƠNG LỚP 12} \\
-%		\textbf{ĐỀ PH12D02}& \textbf{Môn: VẬT LÝ}\\
-%		\textit{(Đề có 04 trang)}& \textit{Thời gian làm bài: 45 phút, không kể thời gian phát đề}
-%		
-%		\noindent\rule{4cm}{0.8pt} \\
-%	\end{tabular}
+	\begin{tabular}{C{7.5cm}C{9.5cm}}
+		\textbf{VẬT LÝ CÔ THẢO - THẦY SANG}& \textbf{KIỂM TRA CUỐI CHƯƠNG 1} \\
+		\textbf{ĐỀ PH12C01}& \textbf{Môn: VẬT LÝ}\\
+		\textit{(Đề có 05 trang)}& \textit{Thời gian làm bài: 50 phút, không kể thời gian phát đề}
+		
+		\noindent\rule{4cm}{0.8pt} \\
+	\end{tabular}
 \newcommand{\hoac}[1]{ %hệ hoặc
 	\left[\begin{aligned}#1\end{aligned}\right.}
 \newcommand{\heva}[1]{ %hệ và
 	\left\{\begin{aligned}#1\end{aligned}\right.}
 % ====================================================== input data BT1+2
-%\input{data/G12-C1}
-%\newpage\input{data/G12-C1-DA}
+\input{data/G12-C1-DA}\newpage
+\input{data/G12-C1}
 % ====================================================== input data BT1+2
 %\input{data/G11-BT1+2}
-\input{data/G12-BT1+2}
+%\input{data/G12-BT1+2}
 %\newpage\input{data/G12-C1-DA}
 \end{document}
